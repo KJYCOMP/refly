@@ -5,7 +5,7 @@
             "name": "🔞redflix(翻)",
             "key": "redflix",
             "type": 3,
-            "api": "./redflix.py",
+            "api": "./resource/redflix.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
