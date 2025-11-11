@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="PPVLand EPG Generator" source-info-name="PPVLand.xml">
+
+  <channel id="soccer_real_madrid_vs_chelsea">
+    <display-name lang="zh">皇家马德里 vs. 切尔西</display-name>
+  </channel>
+  <channel id="soccer_barcelona_vs_valencia">
+    <display-name lang="zh">巴塞罗那 vs. 瓦伦西亚</display-name>
+  </channel>
+  <channel id="american_football_eagles_vs_cowboys">
+    <display-name lang="zh">费城老鹰队 vs. 达拉斯牛仔队</display-name>
+  </channel>
+  
+  <programme start="20251112090000 +0800" stop="20251112110000 +0800" channel="soccer_real_madrid_vs_chelsea">
+    <title lang="zh">09:00 - 11:00 [11/12 北京时间]</title>
+    <category lang="zh">Football</category>
+    <desc lang="zh">🇪🇺欧足联欧洲冠军联赛 (欧冠/欧联)：皇家马德里 vs. 切尔西</desc>
+  </programme>
+  <programme start="20251112110000 +0800" stop="20251112130000 +0800" channel="soccer_barcelona_vs_valencia">
+    <title lang="zh">11:00 - 13:00 [11/12 北京时间]</title>
+    <category lang="zh">Football</category>
+    <desc lang="zh">🇪🇸西班牙足球甲级联赛 (西甲)：巴塞罗那 vs. 瓦伦西亚</desc>
+  </programme>
+  <programme start="20251112130000 +0800" stop="20251112150000 +0800" channel="american_football_eagles_vs_cowboys">
+    <title lang="zh">13:00 - 15:00 [11/12 北京时间]</title>
+    <category lang="zh">American Football</category>
+    <desc lang="zh">费城老鹰队 vs. 达拉斯牛仔队</desc>
+  </programme>
+</tv>
